@@ -1,0 +1,10 @@
+2022-03-04 08:50:30;TEADMATA;Suvila;E, P, O
+2022-03-04 08:55:06;TEADMATA;Lasteaiaõpetaja;D, W, G, F, R, U, N, M
+2022-03-04 08:56:21;ok;Kasvuhoone;G, F, D, R, G, L, M, Y
+2022-03-04 08:56:42;hei;Lasteaiaõpetaja;F, D, W, Q, Z, X, G, H
+2022-03-04 08:57:04;rull;Veoautojuht;L, K, P
+2022-03-04 08:57:29;w;Kasvuhoone;T
+2022-03-04 08:57:49;TEADMATA;Kasvuhoone;G, D, G
+2022-03-04 08:58:05;TEADMATA;Autojuht;Q, W, Z, X, M, N, G, F
+2022-03-04 10:46:50;malle;Bussijuht;F, E, W, M, A, K, E, R
+2022-03-04 12:35:27;kalle;Kortermaja;F, D
